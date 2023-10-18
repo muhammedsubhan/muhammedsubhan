@@ -1,16 +1,15 @@
-### Hi there 👋
+I am a frontend developer dedicated to crafting captivating user interfaces and seamless interactions, leveraging a variety of technologies to elevate web experiences.
 
-<!--
-**muhammedsubhan/muhammedsubhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end Technology: 
 
-Here are some ideas to get you started:
+- HTML5, CSS and ES6/7 JavaScript
+- React.js, React-Redux toolkit, React-Router
+- Next.js 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CSS Preprocessors: 
+
+- Bootstrap
+- Chakra UI
+- Tailwind css
+- SASS
+- Styled Components
