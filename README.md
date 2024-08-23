@@ -20,3 +20,6 @@ Back-end Technology:
 - Django
 - Django DRF
   
+Mobile Development Technology:
+  IOS AND ANDROID
+- React-Native
