@@ -19,6 +19,7 @@ Back-end Technology:
 - Express Js
 - Django
 - Django DRF
+- Nest Js
   
 Mobile Development Technology:
   IOS AND ANDROID
